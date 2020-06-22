@@ -9,5 +9,9 @@ function writeCards( names, event ) {
 }
 
 function countDown() {
+let i = 0
+  while (i > 0) {
+
+  }
 
 }
