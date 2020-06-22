@@ -8,11 +8,10 @@ function writeCards( names, event ) {
   return thankYouCards
 }
 
-function countDown() {
-let i = 0
-  while (i > 0) {
-    console.log(i);
-    i++
+function countDown(number) {
+  while (number > 0) {
+    console.log(number);
+    number -= 1
   }
-
+console.log(number);
 }
