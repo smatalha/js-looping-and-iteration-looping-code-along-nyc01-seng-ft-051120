@@ -2,6 +2,7 @@
 array = ["Ada", "Brendan", "Ali"]
 writeCards(array, "birthday"){
   for (var i = 0; i < array.length; i++) {
-    array[i]
+    console.log(`Thank you ${array[i]}`);
   }
+  return
 }
