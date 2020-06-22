@@ -7,4 +7,3 @@ function writeCards( names, event ) {
   }
   return thankYouCards
 }
-
